@@ -1,0 +1,7 @@
+.item {
+    text-transform: capitalize;
+}
+
+.item:hover {
+    color: aqua;
+}

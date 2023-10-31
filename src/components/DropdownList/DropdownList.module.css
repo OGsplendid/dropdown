@@ -1,0 +1,15 @@
+.list {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    min-height: 50px;
+    padding: 5px;
+    box-shadow: 2px 2px 2px gray;
+    margin-top: 10px;
+    left: 120px;
+}
+
+.hidden {
+    display: none;
+}
